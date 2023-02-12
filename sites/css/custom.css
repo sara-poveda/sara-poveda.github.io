@@ -1,0 +1,134 @@
+
+body, html
+{
+    height: 100%;
+}
+
+.parallax
+{
+    background-image: url("../img/bg.jpg");
+    height: 20%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1
+{
+    font-family: 'Lobster', cursive;
+    font-size: 65px;
+    color: #666699;
+}
+
+.subtitle
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #cc6666;
+    letter-spacing: 3px;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.jumbotron
+{
+    background-color: #f3f4f7;
+}
+
+.avatar
+{
+    display: block;
+    border-radius: 50%;
+    width: 120px !important;
+    height: 120px !important;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 2px dashed #cc6666;
+    outline-offset: 5px;
+}
+
+.icon-center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon
+{
+    width: 30px;
+    height: 30px;
+}
+
+.portfolio
+{
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    margin: 5%;
+    color: #666699;
+}
+
+.category
+{
+    background-color: #c2757d;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+
+.category h6
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight:bolder;
+    letter-spacing: 3px;
+    color:aliceblue;
+}
+
+.category h6:hover
+{
+    letter-spacing: 4px;
+}
+
+.sites
+{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.sites a
+{
+    text-decoration: none;
+    padding: 5px;
+    color: #666699;
+}
+
+.sites a:hover
+{
+    text-decoration: none;
+    padding: 5px;
+    color: #ffcc66;
+    font-size: large;
+}
+
+.pdf
+{
+    color: tomato;
+}
+
+.artgram
+{
+    color: #047857;
+}
+
+.behance
+{
+    color: #053eff;
+}
