@@ -18,14 +18,14 @@ h1
 {
     font-family: 'Lobster', cursive;
     font-size: 65px;
-    color: #666699;
+    color: #7c5bc7;
 }
 
 .subtitle
 {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    color: #cc6666;
+    color: #a94490;
     letter-spacing: 3px;
 }
 
@@ -36,7 +36,7 @@ h1
 
 .jumbotron
 {
-    background-color: #f3f4f7;
+   background-color: #191919;
 }
 
 .avatar
@@ -47,7 +47,7 @@ h1
     height: 120px !important;
     margin-left: auto;
     margin-right: auto;
-    outline: 2px dashed #cc6666;
+    outline: 2px dashed #a94490;
     outline-offset: 5px;
 }
 
@@ -71,17 +71,18 @@ h1
     font-weight: bolder;
     letter-spacing: 10px;
     margin: 5%;
-    color: #666699;
+    color: #7c5bc7;
 }
 
 .category
 {
-    background-color: #c2757d;
-    justify-content: center;
+    background-color: #a94490;
     text-align: center;
-    padding: 15px;
-    border-radius: 15px;
+    padding: 3%;
+    border-radius: 30px;
     text-transform: uppercase;
+    align-items: center;
+    margin:auto;
 }
 
 .category h6
@@ -90,6 +91,7 @@ h1
     font-weight:bolder;
     letter-spacing: 3px;
     color:aliceblue;
+    margin: 0;
 }
 
 .sites
@@ -103,7 +105,7 @@ h1
 {
     text-decoration: none;
     padding: 5px;
-    color: #666699;
+    color: #7c5bc7;
 }
 
 .sites a:hover
@@ -119,9 +121,9 @@ h1
     color: tomato;
 }
 
-.artstation
+.cara
 {
-    color: #1E3050;
+    color: white;
 }
 
 .dribbble
